@@ -44,6 +44,11 @@ npm install
 npm run dev
 ```
 
+## ✅ Приложение задеплоено!
+
+**🚀 Live URL:** https://front-back-vercel-test-4x1det2gc-nicksenins-projects.vercel.app
+**📂 GitHub:** https://github.com/Nick-Senin/front-back-vercel-test
+
 ## Деплой на Vercel
 
 ### 1. Создание репозитория
